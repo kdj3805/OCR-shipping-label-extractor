@@ -1,0 +1,55 @@
+# -----------------------------
+# Python cache / bytecode
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Virtual environment
+# -----------------------------
+venv/
+.venv/
+
+# -----------------------------
+# Streamlit cache
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# Temporary files
+# -----------------------------
+temp_uploaded_image.jpg
+*.log
+
+# -----------------------------
+# OCR temporary or generated results
+# -----------------------------
+results/
+results_fast/
+
+# -----------------------------
+# Data files — OPTIONAL
+# Keep only sample images
+# -----------------------------
+data/images_with_pattern/*
+!data/images_with_pattern/sample.jpg
+
+# If ground truth file is small keep it
+# If large, comment-out the line below
+# data/ground_truth.csv
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# -----------------------------
+# OS / Editor junk
+# -----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

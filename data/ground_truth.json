@@ -1,0 +1,114 @@
+[
+  {
+    "image_name": "reverseWaybill-156387426414724544_1.jpg",
+    "ground_truth": "156387426414724544_1_wni"
+  },
+  {
+    "image_name": "reverseWaybill-160390797970200578_1.jpg",
+    "ground_truth": "160390797970200578_1_gsm"
+  },
+  {
+    "image_name": "reverseWaybill-161889931202248896_1.jpg",
+    "ground_truth": "161889931202248896_1_onz"
+  },
+  {
+    "image_name": "reverseWaybill-161462098390505344_1.jpg",
+    "ground_truth": "NO_PATTERN"
+  },
+  {
+    "image_name": "reverseWaybill-161820476409495744_1.jpg",
+    "ground_truth": "161820476409495744_1"
+  },
+  {
+    "image_name": "reverseWaybill-161827124813349056_1.jpg",
+    "ground_truth": "161827124813349056_1_bmd"
+  },
+  {
+    "image_name": "reverseWaybill-161889931202248896_1.jpg",
+    "ground_truth": "161889931202248896_1_brz"
+  },
+  {
+    "image_name": "reverseWaybill-162107205368239936_1.jpg",
+    "ground_truth": "162107205368239936_1_vrw"
+  },
+  {
+    "image_name": "reverseWaybill-162127075969633920_1.jpg",
+    "ground_truth": "NO_PATTERN"
+  },
+  {
+    "image_name": "reverseWaybill-162533794288078400_1.jpg",
+    "ground_truth": "162533794288078400_1_lfw"
+  },
+  {
+    "image_name": "reverseWaybill-162563926371110528_1.jpg",
+    "ground_truth": "162563926371110528_1_rcr"
+  },
+  {
+    "image_name": "reverseWaybill-162590579457558528_1.jpg",
+    "ground_truth": "NO_PATTERN"
+  },
+  {
+    "image_name": "reverseWaybill-162822952260583552_1.jpg",
+    "ground_truth": "162822952260583552_1"
+  },
+  {
+    "image_name": "reverseWaybill-163138358833942080_1.jpg",
+    "ground_truth": "163138358833942080_1_tdd"
+  },
+  {
+    "image_name": "reverseWaybill-163167305864402752_1.jpg",
+    "ground_truth": "163167305864402752_1_ahr"
+  },
+  {
+    "image_name": "reverseWaybill-163168391573114432_1.jpg",
+    "ground_truth": "163168391573114432_1_iro"
+  },
+  {
+    "image_name": "reverseWaybill-163233702292313922_1.jpg",
+    "ground_truth": "163233702292313922_1_lwv"
+  },
+  {
+    "image_name": "reverseWaybill-163253278646505088_1.jpg",
+    "ground_truth": "163253278646505088_1_oqm"
+  },
+  {
+    "image_name": "reverseWaybill-163278430531063296_1.jpg",
+    "ground_truth": "163278430531063296_1_cbs"
+  },
+  {
+    "image_name": "reverseWaybill-163513920653659776_1.jpg",
+    "ground_truth": "163513920653659776_1_zqw"
+  },
+  {
+    "image_name": "reverseWaybill-163575804188803200_1.jpg",
+    "ground_truth": "163575804188803200_1"
+  },
+  {
+    "image_name": "reverseWaybill-163629705512179520_1.jpg",
+    "ground_truth": "163629705512179520_1_lps"
+  },
+  {
+    "image_name": "reverseWaybill-163869082838745216_1.jpg",
+    "ground_truth": "163869082838745216_1"
+  },
+  {
+    "image_name": "reverseWaybill-164010403918364801_1.jpg",
+    "ground_truth": "164010403918364801_1_dx"
+  },
+  {
+    "image_name": "reverseWaybill-164032400488224576_1.jpg",
+    "ground_truth": "164032400488224576_1"
+  },
+  {
+    "image_name": "reverseWaybill-164219522434499264_1.jpg",
+    "ground_truth": "164219522434499264_1"
+  },
+  {
+    "image_name": "reverseWaybill-164659046174134464_1.jpg",
+    "ground_truth": "164659046174134464_1_kuu"
+  },
+  {
+    "image_name": "reverseWaybill-164712656358576320_1.jpg",
+    "ground_truth": "164712656358576320_1"
+  }
+]
