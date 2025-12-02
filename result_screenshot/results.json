@@ -1,0 +1,207 @@
+{
+    "summary": {
+        "total_samples": 24,
+        "exact_matches": 17,
+        "partial_matches": 0,
+        "accuracy": 70.83333333333334,
+        "partial_accuracy": 70.83333333333334,
+        "predictions": [
+            "156387426414724544_1_wni",
+            "160390797970200578_1_gsm",
+            "161820476409495744_1",
+            "161827124813349056_1_bmd",
+            "161889931202248896_1_brz",
+            "162107205368239936_1_vrw",
+            "162533794288078400_1_lfw",
+            "62565526371110528",
+            "162822952260583552_1",
+            "234095359684229",
+            "163167305864402752_1_ahr",
+            "163168391573114432_1_iro",
+            "63253702292313922_1_",
+            "",
+            "163272430531663296_1",
+            "294095349658557",
+            "163575804188803200_1",
+            "163629705512179520_1_lps",
+            "",
+            "164010403918364801_1_dx",
+            "164032400488224576_1",
+            "164219522434499264_1",
+            "164659046174134464_1_kuu",
+            "164712656358576320_1"
+        ],
+        "ground_truths": [
+            "156387426414724544_1_wni",
+            "160390797970200578_1_gsm",
+            "161820476409495744_1",
+            "161827124813349056_1_bmd",
+            "161889931202248896_1_brz",
+            "162107205368239936_1_vrw",
+            "162533794288078400_1_lfw",
+            "162563926371110528_1_rcr",
+            "162822952260583552_1",
+            "163138358833942080_1_tdd",
+            "163167305864402752_1_ahr",
+            "163168391573114432_1_iro",
+            "163233702292313922_1_lwv",
+            "163253278646505088_1_oqm",
+            "163278430531063296_1_cbs",
+            "163513920653659776_1_zqw",
+            "163575804188803200_1",
+            "163629705512179520_1_lps",
+            "163869082838745216_1",
+            "164010403918364801_1_dx",
+            "164032400488224576_1",
+            "164219522434499264_1",
+            "164659046174134464_1_kuu",
+            "164712656358576320_1"
+        ]
+    },
+    "detailed_results": [
+        {
+            "image_name": "reverseWaybill-156387426414724544_1.jpg",
+            "ground_truth": "156387426414724544_1_wni",
+            "prediction": "156387426414724544_1_wni",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-160390797970200578_1.jpg",
+            "ground_truth": "160390797970200578_1_gsm",
+            "prediction": "160390797970200578_1_gsm",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-161820476409495744_1.jpg",
+            "ground_truth": "161820476409495744_1",
+            "prediction": "161820476409495744_1",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-161827124813349056_1.jpg",
+            "ground_truth": "161827124813349056_1_bmd",
+            "prediction": "161827124813349056_1_bmd",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-161889931202248896_1.jpg",
+            "ground_truth": "161889931202248896_1_brz",
+            "prediction": "161889931202248896_1_brz",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-162107205368239936_1.jpg",
+            "ground_truth": "162107205368239936_1_vrw",
+            "prediction": "162107205368239936_1_vrw",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-162533794288078400_1.jpg",
+            "ground_truth": "162533794288078400_1_lfw",
+            "prediction": "162533794288078400_1_lfw",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-162563926371110528_1.jpg",
+            "ground_truth": "162563926371110528_1_rcr",
+            "prediction": "62565526371110528",
+            "correct": false
+        },
+        {
+            "image_name": "reverseWaybill-162822952260583552_1.jpg",
+            "ground_truth": "162822952260583552_1",
+            "prediction": "162822952260583552_1",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-163138358833942080_1.jpg",
+            "ground_truth": "163138358833942080_1_tdd",
+            "prediction": "234095359684229",
+            "correct": false
+        },
+        {
+            "image_name": "reverseWaybill-163167305864402752_1.jpg",
+            "ground_truth": "163167305864402752_1_ahr",
+            "prediction": "163167305864402752_1_ahr",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-163168391573114432_1.jpg",
+            "ground_truth": "163168391573114432_1_iro",
+            "prediction": "163168391573114432_1_iro",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-163233702292313922_1.jpg",
+            "ground_truth": "163233702292313922_1_lwv",
+            "prediction": "63253702292313922_1_",
+            "correct": false
+        },
+        {
+            "image_name": "reverseWaybill-163253278646505088_1.jpg",
+            "ground_truth": "163253278646505088_1_oqm",
+            "prediction": "",
+            "correct": false
+        },
+        {
+            "image_name": "reverseWaybill-163278430531063296_1.jpg",
+            "ground_truth": "163278430531063296_1_cbs",
+            "prediction": "163272430531663296_1",
+            "correct": false
+        },
+        {
+            "image_name": "reverseWaybill-163513920653659776_1.jpg",
+            "ground_truth": "163513920653659776_1_zqw",
+            "prediction": "294095349658557",
+            "correct": false
+        },
+        {
+            "image_name": "reverseWaybill-163575804188803200_1.jpg",
+            "ground_truth": "163575804188803200_1",
+            "prediction": "163575804188803200_1",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-163629705512179520_1.jpg",
+            "ground_truth": "163629705512179520_1_lps",
+            "prediction": "163629705512179520_1_lps",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-163869082838745216_1.jpg",
+            "ground_truth": "163869082838745216_1",
+            "prediction": "",
+            "correct": false
+        },
+        {
+            "image_name": "reverseWaybill-164010403918364801_1.jpg",
+            "ground_truth": "164010403918364801_1_dx",
+            "prediction": "164010403918364801_1_dx",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-164032400488224576_1.jpg",
+            "ground_truth": "164032400488224576_1",
+            "prediction": "164032400488224576_1",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-164219522434499264_1.jpg",
+            "ground_truth": "164219522434499264_1",
+            "prediction": "164219522434499264_1",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-164659046174134464_1.jpg",
+            "ground_truth": "164659046174134464_1_kuu",
+            "prediction": "164659046174134464_1_kuu",
+            "correct": true
+        },
+        {
+            "image_name": "reverseWaybill-164712656358576320_1.jpg",
+            "ground_truth": "164712656358576320_1",
+            "prediction": "164712656358576320_1",
+            "correct": true
+        }
+    ]
+}
