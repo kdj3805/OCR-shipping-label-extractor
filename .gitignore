@@ -29,22 +29,10 @@ temp_uploaded_image.jpg
 results/
 results_fast/
 
-# -----------------------------
-# Data files — OPTIONAL
-# Keep only sample images
-# -----------------------------
-data/images_with_pattern/*
-!data/images_with_pattern/sample.jpg
 
-# If ground truth file is small keep it
-# If large, comment-out the line below
-# data/ground_truth.csv
 
-# -----------------------------
-# Jupyter
-# -----------------------------
-.ipynb_checkpoints/
-notebooks/.ipynb_checkpoints/
+
+
 
 # -----------------------------
 # OS / Editor junk
